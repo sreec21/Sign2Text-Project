@@ -1,0 +1,1 @@
+print("Collect sign language images from webcam here.")
